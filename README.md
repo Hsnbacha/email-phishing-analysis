@@ -8,7 +8,7 @@ An email was sent to a company and we need to check if this is a suspicious emai
 
 To be on a safe side we need to isolate this file and download it. I will be using Virtual box to perform this analysis.
 
-git add images/my_screenshot.png
+git add images/1.png
 
 
 We can see here the Delivered to 
